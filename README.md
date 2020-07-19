@@ -38,6 +38,6 @@ Length: 200 [text/html]
 💬 [Here Are The Way To Contact Me](https://cyfan.top/contact.html)
 Like [Twitter](https://twitter.com/ChenYF_OHHH) Or [E-mail](mailto:chenyf@cyfan.top)
 
-🍻 Give Me A Beer?
+🍻 Give Me A Cup Of Beer?
 
 ![](https://img.cyfan.top/pic/AP.jpg)
