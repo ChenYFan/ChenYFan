@@ -3,7 +3,7 @@ Hey,That
 
 A **Student** From 🌏China🌏 And Am Loving Coding
 
-📄Profile
+📄 Profile
 
 > wget -O MyProfile profile://ChenYFan/README.md
 
@@ -37,12 +37,27 @@ The Protect Key is:35ed1270e05a131afe193bfb2661f6a136933f26e09d9a73b6e4719b76dcc
 
 ```
 
+**WAIT**
+
+![](https://github-readme-stats.cyfan.top/api/top-langs/?username=ChenYFan)
+
+
 💬 [Here Are The Way To Contact Me](https://cyfan.top/contact.html)
 Like [Twitter](https://twitter.com/ChenYF_OHHH) Or [E-mail](mailto:chenyf@cyfan.top)
 
-🐷Status
+🐷 Status
 
-[![ChenYFan's github stats](https://github-readme-stats.vercel.app/api/?username=ChenYFan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.cyfan.top/api/?username=ChenYFan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+🔥 Good Project
+
+[![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan-Tester&repo=____-help-me-download)](https://github.com/ChenYFan-Tester/____-help-me-download)
+
+[![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan&repo=Bing_Pic_and_Copyright_Catcher)](https://github.com/ChenYFan/Bing_Pic_and_Copyright_Catcher)
+
+[![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan&repo=Dujitang)](https://github.com/ChenYFan/Dujitang)
+
+
 
 🍻 Give Me A Cup Of Beer?
 
