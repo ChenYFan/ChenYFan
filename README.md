@@ -51,6 +51,8 @@ Like [Twitter](https://twitter.com/ChenYF_OHHH) Or [E-mail](mailto:chenyf@cyfan.
 
 🔥 Good Project
 
+[![](https://github-readme-stats.cyfan.top/api/pin/?username=HexoPlusPlus&repo=HexoPlusPlus)](https://github.com/HexoPlusPlus/HexoPlusPlus)
+
 [![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan-Tester&repo=____-help-me-download)](https://github.com/ChenYFan-Tester/____-help-me-download)
 
 [![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan&repo=Bing_Pic_and_Copyright_Catcher)](https://github.com/ChenYFan/Bing_Pic_and_Copyright_Catcher)
