@@ -63,4 +63,5 @@ Like [Twitter](https://twitter.com/ChenYF_OHHH) Or [E-mail](mailto:chenyf@cyfan.
 
 🍻 Give Me A Cup Of Beer?
 
-![](https://img.cyfan.top/pic/AP.jpg)
+![](https://cdn.jsdelivr.net/npm/chenfyan-oss@6.0.3)
+<https://donate.cyfan.top>
