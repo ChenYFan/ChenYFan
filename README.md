@@ -39,7 +39,7 @@ The Protect Key is:35ed1270e05a131afe193bfb2661f6a136933f26e09d9a73b6e4719b76dcc
 
 **WAIT**
 
-![](https://github-readme-stats.cyfan.top/api/top-langs/?username=ChenYFan)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYFan)
 
 
 💬 [Here Are The Way To Contact Me](https://cyfan.top/contact.html)
