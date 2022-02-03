@@ -47,17 +47,17 @@ Like [Twitter](https://twitter.com/ChenYF_OHHH) Or [E-mail](mailto:chenyf@cyfan.
 
 🐷 Status
 
-![](https://github-readme-stats.cyfan.top/api/?username=ChenYFan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api/?username=ChenYFan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 🔥 Good Project
 
-[![](https://github-readme-stats.cyfan.top/api/pin/?username=HexoPlusPlus&repo=HexoPlusPlus)](https://github.com/HexoPlusPlus/HexoPlusPlus)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=HexoPlusPlus&repo=HexoPlusPlus)](https://github.com/HexoPlusPlus/HexoPlusPlus)
 
-[![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan-Tester&repo=____-help-me-download)](https://github.com/ChenYFan-Tester/____-help-me-download)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ChenYFan-Tester&repo=____-help-me-download)](https://github.com/ChenYFan-Tester/____-help-me-download)
 
-[![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan&repo=Bing_Pic_and_Copyright_Catcher)](https://github.com/ChenYFan/Bing_Pic_and_Copyright_Catcher)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ChenYFan&repo=Bing_Pic_and_Copyright_Catcher)](https://github.com/ChenYFan/Bing_Pic_and_Copyright_Catcher)
 
-[![](https://github-readme-stats.cyfan.top/api/pin/?username=ChenYFan&repo=Dujitang)](https://github.com/ChenYFan/Dujitang)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ChenYFan&repo=Dujitang)](https://github.com/ChenYFan/Dujitang)
 
 
 
