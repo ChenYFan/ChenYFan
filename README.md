@@ -5,41 +5,10 @@ A **Student** From 🌏China🌏 And Am Loving Coding
 
 📄 Profile
 
-> wget -O MyProfile profile://ChenYFan/README.md
-
-```
-
---22:33:44--  profile://ChenYFan/README.md
-           => `README.md'
-Resolving ChenYFan... -1.-1.-1.-1, ::-1
-Connecting to ChenYFan|-1.-1.-1.-1|:65536... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 200 [text/html]
-
-58%[====================================>                          ] 200          100K/s   in 2s 【English】
-
-100%[=============================================================>] 81          100K/s   in 0s 【Chinese】
-
-69%[========================================>                      ] 98          65397M/s   in 1s 【C++】
-
-14%[======>                                                        ] 102400       0K/s   in +∞s 【PHP】
-
-74%[===========================================>                   ] 65535       655K/s   in 101s 【LiunxServer】
-
-82%[==============================================>                ] 990900          --.-K/s   in --s 【Javascript】
-
-?%[???????????????????????????????????????????????????????????????>] ??          ??K/s   in ??s 【???】
-
-
-33:44:55 (2.333333 MB/s) - `README.md' saved [81/81]
-
-The Protect Key is:35ed1270e05a131afe193bfb2661f6a136933f26e09d9a73b6e4719b76dccb7143a8b2f63742426db70dfef45dd272aee1fa24d883115cbed25d7eac65aac1d5
-
-```
-
-**WAIT**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYFan)
+
+![](https://snakegithub.pages.dev/github-contribution-grid-snake.svg)
 
 
 💬 [Here Are The Way To Contact Me](https://cyfan.top/contact.html)
