@@ -28,6 +28,7 @@
 - [mpl.js || 跨平台的JS启动器 <img align='middle' src='https://anya.215213344.xyz/?repo=CrazyCreativeDream/mpl.js'></img>](https://github.com/CrazyCreativeDream/mpl.js)
 - [IPFS PHOTO SHARE || 无服务器UGC图片托管，IPFS+KV，无成本价 <img align='middle' src='https://anya.215213344.xyz/?repo=ChenYFan-Tester/IPFS_PHOTO_SHARE'></img>](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE)
 - [Wexagonal || 试图重新定义静态博客写作方式（已暂停更新）  <img align='middle' src='https://anya.215213344.xyz/?repo=Wexagonal/Wexagonal'></img>](https://github.com/Wexagonal/Wexagonal)
+- [HexoPlusPlus || Wexagonal前试水产品（已终止更新）  <img align='middle' src='https://anya.215213344.xyz/?repo=Hexoplusplus/Hexoplusplus'></img>](https://github.com/Hexoplusplus/Hexoplusplus)
 - [AnyaShield || 一个哇酷哇酷的无服务器徽章生成器 <img align='middle' src='https://anya.215213344.xyz/?repo=ChenYFan/AnyaShield'></img>](https://github.com/ChenYFan/AnyaShield)
 
 有兴趣去[<img align='middle' src='https://anya.215213344.xyz/?text=%E7%9C%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%EF%BC%81&img=https://avatars.githubusercontent.com/u/53730587&bgcolor1=fff&bgcolor2=eee&color=666'></img>](https://blog.cyfan.top)
