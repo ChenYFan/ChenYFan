@@ -10,12 +10,7 @@
 
 [<img align='middle' src='https://anya.215213344.xyz/?text=Telegram%20@ChenYFan&bgcolor1=30a3e6&bgcolor2=30a3e6&img=https://i.imgur.com/7qo9t7X.jpg'></img>](https://t.me/chenyfan) [<img align='middle' src='https://anya.215213344.xyz/?text=Mail%20to%20chenyf@cyfan.top&bgcolor1=fff&bgcolor2=eee&img=https://i.imgur.com/5L7CbqA.png&color=555'></img>](mailto:chenyf@cyfan.top) [<img align='middle' src='https://anya.215213344.xyz/?text=Twitter%20@ChenYF_OHHH&bgcolor1=1d9bf0&bgcolor2=30a3e6&img=https://i.imgur.com/dpqSHIL.png'></img>](https://twitter.com/ChenYF_OHHH)
 
-
-
-
-
-
-
+---
 
 # 📦Snake && Contribution
 ![](https://github-readme-stats.vercel.app/api/?username=ChenYFan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
