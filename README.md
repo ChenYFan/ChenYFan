@@ -15,7 +15,7 @@
 
 # 🍻谢谢，穷的一批
 
-[![](http://anya.215213344.xyz/?text=KFC%20V%E6%88%9150&img=http://i.imgur.com/rrIHcGx.png&bgcolor1=a3080c&bgcolor2=a3080cc7)](http://donate.cyfan.top) [![](http://anya.215213344.xyz/?text=DONATE%20%E7%AB%8B%E5%88%BB%E6%8D%90%E6%AC%BE%EF%BC%8C%E5%89%8D%E8%BF%9B%E4%B8%89%EF%BC%81&img=http://i.imgur.com/E1lfz6g.png&bgcolor1=f7931a&bgcolor2=ff8c00&color=eee)](http://donate.cyfan.top) [![](http://anya.215213344.xyz/?text=%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5%20@ChenYFan&img=http://i.imgur.com/r3hX9Ww.png&bgcolor1=946ce6&bgcolor2=946ce6&color=eee)](http://afdian.net/@ChenYFan)
+[![](http://anya.215213344.xyz/?text=%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5%20@ChenYFan&img=http://i.imgur.com/r3hX9Ww.png&bgcolor1=946ce6&bgcolor2=946ce6&color=eee)](http://afdian.net/@ChenYFan)
 
 ---
 
@@ -35,3 +35,17 @@
 
 有兴趣去[<img align='middle' src='http://anya.215213344.xyz/?text=%E7%9C%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%EF%BC%81&img=http://avatars.githubusercontent.com/u/53730587&bgcolor1=fff&bgcolor2=eee&color=666'></img>](http://blog.cyfan.top)
 
+# 👇这是我的GPG指纹！
+
+<p align='center'><b>😎主指纹</b></p>
+
+```math
+\Huge{068\quad114514\quad1919810}
+```
+
+> [!NOTE]
+> 完整的指纹如下
+> 
+> `4ACC FEDC C944 D505 2E87 D293 0681 1451 4191 9810`
+>
+> 你可以直接使用`gpg --receive-keys 0681145141919810`或`gpg --receive-keys chenyf@cyfan.top`导入我的公钥！
