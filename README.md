@@ -35,7 +35,7 @@
 
 有兴趣去[<img align='middle' src='http://anya.215213344.xyz/?text=%E7%9C%8B%E7%9C%8B%E5%8D%9A%E5%AE%A2%EF%BC%81&img=http://avatars.githubusercontent.com/u/53730587&bgcolor1=fff&bgcolor2=eee&color=666'></img>](http://blog.cyfan.top)
 
-# 👇这是我的GPG指纹！
+# 👇这是我的PGP指纹！
 
 <p align='center'><b>😎主指纹</b></p>
 
