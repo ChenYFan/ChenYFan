@@ -48,7 +48,7 @@
 > 
 > `4ACC FEDC C944 D505 2E87 D293 0681 1451 4191 9810`
 
-> [!WARN]
+> [!TIP]
 >
 > 你可以直接使用`gpg --receive-keys 0681145141919810`或`gpg --receive-keys chenyf@cyfan.top`导入我的公钥！
 >
